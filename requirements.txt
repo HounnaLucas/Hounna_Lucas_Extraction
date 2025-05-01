@@ -1,0 +1,21 @@
+# --- Détection de Signatures avec YOLO ---
+ultralytics==8.0.168
+pdf2image==1.16.3
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+
+# --- Traitement PDF & OCR ---
+pymupdf==1.23.22
+pytesseract==0.3.10
+
+# --- Traitement du langage naturel ---
+spacy==3.7.2
+fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.7.0/fr_core_news_md-3.7.0-py3-none-any.whl
+
+# --- API web ---
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# --- Utilitaires ---
+python-multipart==0.0.9

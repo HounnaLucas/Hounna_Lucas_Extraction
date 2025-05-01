@@ -1,0 +1,32 @@
+[
+    {
+        "image_with_detections": "output\\images_avec_detections\\page_1_with_detections.jpg"
+    },
+    {
+        "image": "output\\signatures_extraites\\page_2_signature_1.jpg"
+    },
+    {
+        "image": "output\\signatures_extraites\\page_2_signature_2.jpg"
+    },
+    {
+        "image": "output\\signatures_extraites\\page_2_signature_3.jpg"
+    },
+    {
+        "image_with_detections": "output\\images_avec_detections\\page_2_with_detections.jpg"
+    },
+    {
+        "image_with_detections": "output\\images_avec_detections\\page_3_with_detections.jpg"
+    },
+    {
+        "image": "output\\signatures_extraites\\page_4_signature_1.jpg"
+    },
+    {
+        "image_with_detections": "output\\images_avec_detections\\page_4_with_detections.jpg"
+    },
+    {
+        "image_with_detections": "output\\images_avec_detections\\page_5_with_detections.jpg"
+    },
+    {
+        "image_with_detections": "output\\images_avec_detections\\page_6_with_detections.jpg"
+    }
+]
