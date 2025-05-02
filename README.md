@@ -114,31 +114,31 @@ uvicorn main:app --reload
      - `extraire_metadonnees_entete` : Fonction principale d’extraction des données de l'entête d’un décret. C'est la partie supérieure droite qui comporte le numéro 
          du décret, sa date de publication et l'objet. Grâce à la fonction  re.search() paramétrée, on identifie les différents éléments de sortie. 
          Elle retourne : 
-         # resultats =  "metadonnees": { "numero_decret": numero_decret, "date_publication": date_publication, "institution": institution, "objet": objet }
+      # resultats =  "metadonnees": { "numero_decret": numero_decret, "date_publication": date_publication, "institution": institution, "objet": objet }
      
      - `extract_preambule` : Avant l'annonce des Articles, un rappel d'anciennes lois ou de décrets, sur lesquels se basent les nouveaux articles est effectué.
          Cette portion, nommée ici préambule, est constitué de phrases commençant par "Vu". Durant l'extraction, la structure du texte est parfgois biaisé (On a
          donc codé une option avec extraction propre et une autre où les mots-clés VU, sont désorganisés.)
          Elle retourne
-         # preambule.append({ "type": type_texte, "numero": numero, "date": date, "contenu": contenu })
+      # preambule.append({ "type": type_texte, "numero": numero, "date": date, "contenu": contenu })
 
      - `extract_articles` : Fonction principale d’extraction des articles d’un décret. C'est la partie du texte commençant après le mots-Clé DECRETE. Chaque article 
          posséde un numéro (1,2,2,...), un type (nomination, interdition, Rappel, Information, Modification, ...) et est inscrit sur une page donnée.
          Elle retourne : 
-         # articles.append({ "article": numero_en_ordinal(numero_brut), "contenu": contenu, "type": article_type, "page": page })
+      # articles.append({ "article": numero_en_ordinal(numero_brut), "contenu": contenu, "type": article_type, "page": page })
 
       - `extraire_ampliations` : "Cette fonction permet la structuration des ampliations du communniqué."
 
       - `associer_ministeres_et_noms` : Appliqué à la portion de texte située entre Fait à.. et Ampliation..., elle permet d'extraire la liste des signataires du décret. 
          On extrait les postes ministériels et les noms des ministres signataires.
          Elle retourne
-         # resultat_json = { "Entités Signataires ": ministeres_detectes, "Ont signé ": noms_formates }
+      # resultat_json = { "Entités Signataires ": ministeres_detectes, "Ont signé ": noms_formates }
 
-       - `extract_legal_terms` : Retourne les termes juridiques les plus utilisées dans le décret
+      - `extract_legal_terms` : Retourne les termes juridiques les plus utilisées dans le décret
 
-       - `extraire_annexe` : Retourne tout élément annexé au communiqué principal
+      - `extraire_annexe` : Retourne tout élément annexé au communiqué principal
 
-       - `model_yolo` : détecter automatiquement les signatures dans des documents PDF. Il convertit chaque page du PDF en image, applique la détection d’objets, extrait les signatures détectées, et génère un fichier JSON contenant les chemins des résultats. Elle retourne :
+      - `model_yolo` : détecter automatiquement les signatures dans des documents PDF. Il convertit chaque page du PDF en image, applique la détection d’objets, extrait les signatures détectées, et génère un fichier JSON contenant les chemins des résultats. Elle retourne :
         les images avec détection (dossier) les signatures () et les lien des signatures
 
 

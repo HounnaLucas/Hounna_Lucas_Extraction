@@ -41,7 +41,8 @@ async def extract_pdf(file: UploadFile = File(...)):
             "ampliations": ampliations,
             "Signataires" : resume,
             "annexe" : annexe,
-            "termes_legaux": termes_legaux
+            "termes_legaux": termes_legaux,
+            "remarque": "Les fichiers extraits sont dans le dossier Output."
         }
 
         output_folder = "output"  # 
@@ -51,7 +52,7 @@ async def extract_pdf(file: UploadFile = File(...)):
         # Sauvegarde du résultat dans le fichier JSON
         with open (json_output_path, 'w') as json_file: json.dump(resultat, json_file, indent=4)
 
-        # Exemple d'appel à la fonction
+        # Exemple d'appel à la fonctionJ
         model_path = "Code/best.pt"     # Remplacez par le chemin de votre modèle YOLO
         model_yolo(temp_pdf_path, model_path)
 

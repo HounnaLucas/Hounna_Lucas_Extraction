@@ -51,14 +51,10 @@ def extract_text_from_scanned_pdf(pdf_path):
 
 
 def nettoyer_texte(texte: str) -> str:
-    """
-    Nettoie le texte OCR pour le rendre plus lisible.
+    # Nettoie un texte en supprimant les espaces insécables, les espaces multiples et les lignes vides excessives.
     
-    texte: Texte brut issu de l’OCR.
-    :return: Texte nettoyé.
-    """
-    texte = texte.replace('\xa0', ' ')  
-    texte = re.sub(r'[ \t]+', ' ', texte)  
-    texte = re.sub(r'\n{2,}', '\n', texte)  
-    texte = texte.strip() 
+    texte = texte.replace('\xa0', ' ')  # Supprimer les espaces insécables
+    texte = re.sub(r'[ \t]+', ' ', texte)  # Réduire les espaces multiples
+    texte = re.sub(r'\n{2,}', '\n', texte)  # Réduire les lignes vides multiples
+    texte = texte.strip()  # Supprimer les espaces au début et à la fin
     return texte

@@ -1,52 +1,16 @@
 {
     "entete": {
-        "numero_decret": "D\u00c9CRET N\u00b0 2024 \u2014 1398",
-        "date_publication": "11 DECEMBRE 2024",
+        "numero_decret": "D\u00c9CRET N\u00b0 2024 - 1473",
+        "date_publication": "24 DECEMBRE 2024",
         "institution": "LE PR\u00c9SIDENT DE LA R\u00c9PUBLIQUE,, CHEF DE L'\u00c9TAT,, CHEF DU GOUVERNEMENT,",
-        "objet": "portant nomenclature  des installations, ouvrages,\ntravaux et activit\u00e9s soumis \u00e0 autorisation ou \u00e0\nd\u00e9claration."
+        "objet": "portant conditions d\u2019introduction et de mise sur\nmarch\u00e9 d'additifs alimentaires sur le territoire\nnational."
     },
     "preambule": [
         {
             "type": "loi",
             "numero": "90",
             "date": "11 d\u00e9cembre 1990",
-            "contenu": "Vu la loi n\u00b0 90-32 du 11 d\u00e9cembre 1990 portant Constitution de la R\u00e9publique du B\u00e9nin, telle que modifi\u00e9e par la loi n\u00b0 2019-40 du 07 novembre 2019"
-        },
-        {
-            "type": "loi",
-            "numero": "98",
-            "date": "12 f\u00e9vrier 1999",
-            "contenu": "vu la loi n\u00b098-030 du 12 f\u00e9vrier 1999 portant loi-cadre sur l\u2019environnement en R\u00e9publique du B\u00e9nin"
-        },
-        {
-            "type": "loi",
-            "numero": "2010-44",
-            "date": "24 novembre 2010",
-            "contenu": "vu la loi n\u00b0 2010-44 du 24 novembre 2010 portant gestion de l'eau en R\u00e9publique du B\u00e9nin"
-        },
-        {
-            "type": "",
-            "numero": "",
-            "date": "21 avril 2021",
-            "contenu": "vu |la d\u00e9cision portant proclamation, le 21 avril 2021 par la Cour constitutionnelle, des r\u00e9sultats d\u00e9finitifs de l\u2019\u00e9lection pr\u00e9sidentielle du 11 avril 2021"
-        },
-        {
-            "type": "d\u00e9cret",
-            "numero": "2024-892",
-            "date": "11 avril 2024",
-            "contenu": "vu |le d\u00e9cret n\u00b0 2024-892 du 11 avril 2024 portant composition du Gouvernement"
-        },
-        {
-            "type": "d\u00e9cret",
-            "numero": "2021-401",
-            "date": "28 juillet 2021",
-            "contenu": "vu le d\u00e9cret n\u00b0 2021-401 du 28 juillet 2021 fixant la structure-type des minist\u00e8res, tel que modifi\u00e9 par le d\u00e9cret n\u00b0 2022-476 du 03 ao\u00fbt 2022"
-        },
-        {
-            "type": "d\u00e9cret",
-            "numero": "2024-896",
-            "date": "11 d\u00e9cembre 2024",
-            "contenu": "vu le d\u00e9cret n\u00b0 2024-896 du 17 \u00cbavril 2024 portant attributions, organisation et fonctionnement du Minist\u00e8re de l\u2019\u00c9nergie, de l\u2019Eau et des Mines ; sur proposition du Ministre de l\u2019\u00c9nergie, de l\u2019Eau et des Mines, le Conseil des Ministres entendu en sa s\u00e9ance du 11 d\u00e9cembre 2024,"
+            "contenu": "la loi n\u00b0 90-32 du 11 d\u00e9cembre 1990 portant Constitution de la R\u00e9publique du B\u00e9nin, telle que modifi\u00e9e par la loi n\u00b0 2019-40 du 07 novembre 2019 ; la loi n\u00b084-009 du 15 mars 1984 sur le contr\u00f4le des denr\u00e9es alimentaires en R\u00e9publique du B\u00e9nin ; la loi n\u00b0 2022-04 du 16 f\u00e9vrier 2022 sur l'hygi\u00e8ne publique en R\u00e9publique du B\u00e9nin : la d\u00e9cision portant proclamation, le 21 avril 2021 par la Cour constitutionnelle, des r\u00e9sultats d\u00e9finitifs de l\u2019\u00e9lection pr\u00e9sidentielle du 11 avril 2021 ; le d\u00e9cret n\u00b0 2024-892 du 11 avril 2024 portant composition du Gouvernement : le d\u00e9cret n\u00b0 2021-401 du 28 juillet 2021 fixant la structure-type des minist\u00e8res, tel que modifi\u00e9 par le d\u00e9cret n\u00b0 2022-476 du 03 ao\u00fbt 2022 ; le d\u00e9cret n\u00b0 2021-563 du 03 novembre 2021, portant attributions, organisation et fonctionnement du Minist\u00e8re de l\u2019Agriculture, de l\u2019\u00c9levage et de la P\u00eache ; proposition du Ministre de l\u2019Agriculture, de l\u2019'\u00c9levage et de la P\u00eache, Conseil des Ministres entendu en sa s\u00e9ance du 24 d\u00e9cembre 2024,"
         }
     ],
     "preambules": [
@@ -54,58 +18,137 @@
             "type": "loi",
             "numero": "90",
             "date": "11 d\u00e9cembre 1990",
-            "contenu": "Vu la loi n\u00b0 90-32 du 11 d\u00e9cembre 1990 portant Constitution de la R\u00e9publique du B\u00e9nin, telle que modifi\u00e9e par la loi n\u00b0 2019-40 du 07 novembre 2019 ; vu la loi n\u00b098-030 du 12 f\u00e9vrier 1999 portant loi-cadre sur l\u2019environnement en R\u00e9publique du B\u00e9nin ; vu la loi n\u00b0 2010-44 du 24 novembre 2010 portant gestion de l'eau en R\u00e9publique du B\u00e9nin ; vu |la d\u00e9cision portant proclamation, le 21 avril 2021 par la Cour constitutionnelle, des r\u00e9sultats d\u00e9finitifs de l\u2019\u00e9lection pr\u00e9sidentielle du 11 avril 2021 : vu |le d\u00e9cret n\u00b0 2024-892 du 11 avril 2024 portant composition du Gouvernement : vu le d\u00e9cret n\u00b0 2021-401 du 28 juillet 2021 fixant la structure-type des minist\u00e8res, tel que modifi\u00e9 par le d\u00e9cret n\u00b0 2022-476 du 03 ao\u00fbt 2022 : vu le d\u00e9cret n\u00b0 2024-896 du 17 \u00cbavril 2024 portant attributions, organisation et fonctionnement du Minist\u00e8re de l\u2019\u00c9nergie, de l\u2019Eau et des Mines ; sur"
+            "contenu": "la loi n\u00b0 90-32 du 11 d\u00e9cembre 1990 portant Constitution de la R\u00e9publique du B\u00e9nin, telle que modifi\u00e9e par la loi n\u00b0 2019-40 du 07 novembre 2019 ;"
+        },
+        {
+            "type": "loi",
+            "numero": "84",
+            "date": "15 mars 1984",
+            "contenu": "la loi n\u00b084-009 du 15 mars 1984 sur le contr\u00f4le des denr\u00e9es alimentaires en R\u00e9publique du B\u00e9nin ;"
+        },
+        {
+            "type": "loi",
+            "numero": "2022-04",
+            "date": "16 f\u00e9vrier 2022",
+            "contenu": "la loi n\u00b0 2022-04 du 16 f\u00e9vrier 2022 sur l'hygi\u00e8ne publique en R\u00e9publique du B\u00e9nin :"
+        },
+        {
+            "type": "",
+            "numero": "2022-04",
+            "date": "21 avril 2021",
+            "contenu": "la d\u00e9cision portant proclamation, le 21 avril 2021 par la Cour constitutionnelle, des r\u00e9sultats d\u00e9finitifs de l\u2019\u00e9lection pr\u00e9sidentielle du 11 avril 2021 ;"
+        },
+        {
+            "type": "d\u00e9cret",
+            "numero": "2024-892",
+            "date": "11 avril 2024",
+            "contenu": "le d\u00e9cret n\u00b0 2024-892 du 11 avril 2024 portant composition du Gouvernement :"
+        },
+        {
+            "type": "d\u00e9cret",
+            "numero": "2021-401",
+            "date": "28 juillet 2021",
+            "contenu": "le d\u00e9cret n\u00b0 2021-401 du 28 juillet 2021 fixant la structure-type des minist\u00e8res, tel que modifi\u00e9 par le d\u00e9cret n\u00b0 2022-476 du 03 ao\u00fbt 2022 ;"
+        },
+        {
+            "type": "d\u00e9cret",
+            "numero": "2021-563",
+            "date": "03 novembre 2021",
+            "contenu": "le d\u00e9cret n\u00b0 2021-563 du 03 novembre 2021, portant attributions, organisation et fonctionnement du Minist\u00e8re de l\u2019Agriculture, de l\u2019\u00c9levage et de la P\u00eache ;"
         }
     ],
     "articles": [
         {
             "article": "premier",
-            "contenu": "En application des dispositions de la loi n\u00b0 2010-44 du 24 novembre 2010 portant\ngestion de l'eau en R\u00e9publique du B\u00e9nin, le pr\u00e9sent d\u00e9cret d\u00e9termine la\nnomenclature des installations, des ouvrages, des travaux et des activit\u00e9s soumis \u00e0\nautorisation ou \u00e0 d\u00e9claration.",
+            "contenu": "Au sens du pr\u00e9sent d\u00e9cret, on entend par :\nadditif alimentaire : toute substance qui n\u2019est pas normalement consomm\u00e9e en tant que\ndenr\u00e9e alimentaire, ni utilis\u00e9e normalement comme ingr\u00e9dient caract\u00e9ristique d\u2019une denr\u00e9e\nalimentaire, qu\u2019elle ait ou non une valeur nutritive, et dont l\u2019addition intentionnelle \u00e0 une\ndenr\u00e9e alimentaire dans un but technologique, y compris organoleptique \u00e0 une \u00e9tape\nS\n \nquelconque de la fabrication, de la transformation, de la pr\u00e9paration, du traitement, du\nconditionnement, de l\u2019emballage, du transport ou de l\u2019entreposage de ladite denr\u00e9e\nentra\u00eene ou peut, selon toute vraisemblance, entra\u00eener directement ou indirectement son\nincorporation ou celle de ses d\u00e9riv\u00e9s dans cette denr\u00e9e ou en affecter d\u2019une autre fa\u00e7on\nles caract\u00e9ristiques.",
             "type": "autre",
             "page": 1
         },
         {
             "article": "deuxi\u00e8me",
-            "contenu": "La nomenclature des installations, des ouvrages, des travaux et des activit\u00e9s soumis\n\u00e0 autorisation ou \u00e0 d\u00e9claration est annex\u00e9e au pr\u00e9sent d\u00e9cret.\n&",
+            "contenu": "En application des dispositions de la loi n\u00b0 2022-04 du 16 f\u00e9vrier 2022 sur l'hygi\u00e8ne\npublique et de la loi n\u00b0 84-009 du 15 mars 1984 sur le contr\u00f4le des denr\u00e9es alimentaires\nen R\u00e9publique du B\u00e9nin, le pr\u00e9sent d\u00e9cret fixe les conditions d\u2019introduction d\u2019additifs\nalimentaires sur le territoire national.\nLe pr\u00e9sent d\u00e9cret ne s'applique ni aux contaminants ni aux substances ajout\u00e9es aux\ndenr\u00e9es alimentaires pour en pr\u00e9server ou en am\u00e9liorer les propri\u00e9t\u00e9s nutritionnelles.",
             "type": "autre",
-            "page": 1
+            "page": 2
         },
         {
             "article": "troisi\u00e8me",
-            "contenu": "Le Ministre de I\u2019\u00c9nergie, de l\u2019Eau et des Mines, le Ministre du Cadre de Vie et des\nTransports, charg\u00e9 du D\u00e9veloppement durable, le Ministre de l'Agriculture, de\nl\u2019\u00c9levage et de la P\u00eache sont charg\u00e9s, chacun en ce qui le concerne, de l\u2019application\ndu pr\u00e9sent d\u00e9cret.",
+            "contenu": "L'additif alimentaire n\u2019est pas un produit de sant\u00e9.\nL'utilisation d\u2019additifs alimentaires ne se justifie que si elle comporte un avantage, ne pr\u00e9sente\npas de risque appr\u00e9ciable pour la sant\u00e9 du consommateur, n\u2019induit pas le consommateur en\nerreur, remplit une ou plusieurs des fonctions technologiques \u00e9nonc\u00e9es par le Codex\nAlimentarius, r\u00e9pond aux besoins \u00e9nonc\u00e9s aux alin\u00e9as a) \u00e0 d) ci-apr\u00e8s, et uniquement si ces\nobjectifs ne peuvent \u00eatre atteints par d\u2019autres moyens \u00e9conomiquement et technologiquement\napplicables :\na. pr\u00e9server la qualit\u00e9 nutritionnelle de l\u2019aliment ; une r\u00e9duction d\u00e9lib\u00e9r\u00e9e de la qualit\u00e9\nnutritionnelle de l\u2019aliment n\u2019est justifi\u00e9e que dans les circonstances vis\u00e9es \u00e0 l'alin\u00e9a b)\nainsi que dans d\u2019autres cas o\u00f9 l\u2019aliment ne constitue pas un \u00e9l\u00e9ment important du r\u00e9gime\nalimentaire ordinaire ;\nb. introduire les ingr\u00e9dients ou composants n\u00e9cessaires dans des denr\u00e9es alimentaires\nmanufactur\u00e9es destin\u00e9es \u00e0 certains groupes de consommateurs ayant des besoins\ndi\u00e9t\u00e9tiques particuliers ;\nc. am\u00e9liorer la conservation ou la stabilit\u00e9 d\u2019un aliment ou ses propri\u00e9t\u00e9s organoleptiques,\n\u00e0 condition de ne pas en alt\u00e9rer la nature, la substance ou la qualit\u00e9 de fa\u00e7on \u00e0 tromper\nle consommateur ;\nd. servir d\u2019adjuvant dans la fabrication, la transformation, la pr\u00e9paration, le traitement,\nl'emballage, le transport ou l\u2019entreposage de l'aliment, \u00e0 condition que l\u2019additif ne soit\npas utilis\u00e9 pour masquer les effets de l\u2019utilisation de mati\u00e8res premi\u00e8res de mauvaise\nqualit\u00e9 ou de m\u00e9thodes ou techniques ind\u00e9sirables, y compris le manque d\u2019hygi\u00e8ne.\nE",
             "type": "autre",
             "page": 2
         },
         {
             "article": "4\u1d49",
-            "contenu": "Le pr\u00e9sent d\u00e9cret qui, prend effet pour compter de la date de sa signature, abroge\nles dispositions du d\u00e9cret n\u00b0 2015-580 du 18 novembre 2015 portant d\u00e9termination\nde la nomenclature des installations, ouvrages, travaux et activit\u00e9s soumises \u00e0\nautorisation ou \u00e0 d\u00e9claration et tous autres dispositions ant\u00e9rieures contraires.\nI| sera publi\u00e9 au Journal officiel.",
+            "contenu": "Les groupes d\u2019additifs alimentaires sont ceux adopt\u00e9s \u00e0 l'\u00e9tape finale par le Codex\nAlimentarius.",
             "type": "autre",
-            "page": 2
+            "page": 3
+        },
+        {
+            "article": "5\u1d49",
+            "contenu": "Les additifs alimentaires adopt\u00e9s \u00e0 l\u2019\u00e9tape finale dans la norme g\u00e9n\u00e9rale sur les additifs\nalimentaires du Codex Alimentarius sont admis sur le territoire national apr\u00e8s l\u2019obtention\nde l'autorisation de mise sur le march\u00e9 d\u00e9livr\u00e9e par un organisme international reconnu par\nle B\u00e9nin ou par l\u2019autorit\u00e9 nationale comp\u00e9tente.",
+            "type": "autre",
+            "page": 3
+        },
+        {
+            "article": "6\u1d49",
+            "contenu": "Les additifs alimentaires produits sur le territoire national font l\u2019objet d\u2019\u00e9valuation de risques\nappropri\u00e9e, de cat\u00e9gorisation dans le groupe des additifs alimentaires du Codex\nAlimentarius et d\u2019autorisation de mise sur le march\u00e9 dont la proc\u00e9dure est fix\u00e9e par arr\u00eat\u00e9\nconjoint du ministre charg\u00e9 de l'Agriculture, du ministre charg\u00e9 du Commerce et du ministre\ncharg\u00e9 de la Sant\u00e9.",
+            "type": "autre",
+            "page": 3
+        },
+        {
+            "article": "7\u1d49",
+            "contenu": "Tout additif alimentaire non inclus dans le Codex Alimentarius fait l\u2019objet d\u2019une \u00e9valuation\nde risque appropri\u00e9e pour prouver qu'il ne pr\u00e9sente pas de risque appr\u00e9ciable pour la sant\u00e9\ndu consommateur avant son introduction sur le territoire national.",
+            "type": "autre",
+            "page": 3
+        },
+        {
+            "article": "8\u1d49",
+            "contenu": "Tout additif alimentaire est utilis\u00e9, conform\u00e9ment \u00e0 son usage, selon les bonnes pratiques\nde fabrication \u00e0 savoir que :\na. la quantit\u00e9 d\u2019additifs alimentaires ajout\u00e9e \u00e0 l\u2019aliment ne d\u00e9passe pas celle\nraisonnablement n\u00e9cessaire pour obtenir l\u2019effet voulu dans l\u2019aliment ;\nb. la quantit\u00e9 d\u2019un additif qui, par suite de son utilisation au cours des op\u00e9rations de\nfabrication, de transformation ou d'emballage, devient un constituant de l\u2019aliment et\nqui n\u2019est pas destin\u00e9 \u00e0 produire un effet physique ou tout autre effet technologique\ndans l\u2019aliment lui-m\u00eame est r\u00e9duite dans toute la mesure raisonnablement possible ;\nc. l'additif est de qualit\u00e9 alimentaire appropri\u00e9e, pr\u00e9par\u00e9 et manipul\u00e9 comme un\ningr\u00e9dient alimentaire.",
+            "type": "autre",
+            "page": 3
+        },
+        {
+            "article": "9\u1d49",
+            "contenu": "L'\u00e9valuation des risques d\u2019un additif alimentaire est effectu\u00e9e par l'OMS, la FAO ou tout\nautre organisme reconnu par les autorit\u00e9s nationales comp\u00e9tentes. Un additif alimentaire\n3\n&\n \ndont l\u2019\u00e9valuation des risques n\u2019a pas \u00e9t\u00e9 effectu\u00e9e n\u2019est pas admis dans les aliments.",
+            "type": "autre",
+            "page": 3
+        },
+        {
+            "article": "10\u1d49",
+            "contenu": "Les additifs alimentaires contenus dans les aliments industriels entrant sur le territoire\nnational sont identifi\u00e9s conform\u00e9ment aux r\u00e8gles d\u2019\u00e9tiquetage et sont soumis aux contr\u00f4les\nn\u00e9cessaires.",
+            "type": "autre",
+            "page": 4
+        },
+        {
+            "article": "11\u1d49",
+            "contenu": "Tout additif alimentaire non autoris\u00e9 est saisi et trait\u00e9 conform\u00e9ment aux textes en vigueur.",
+            "type": "autre",
+            "page": 4
+        },
+        {
+            "article": "12\u1d49",
+            "contenu": "Le Ministre de l'Agriculture, de l\u2019\u00c9levage et de la P\u00eache, le Ministre de la Sant\u00e9 et le Ministre\nde l'Industrie et du Commerce sont charg\u00e9s, chacun en ce qui le concerne, de l\u2019application\ndu pr\u00e9sent d\u00e9cret.",
+            "type": "autre",
+            "page": 4
+        },
+        {
+            "article": "13\u1d49",
+            "contenu": "Le pr\u00e9sent d\u00e9cret, qui prend effet pour compter de la date de sa signature, abroge toutes\ndispositions ant\u00e9rieures contraires.\nIl sera publi\u00e9 au Journal officiel.",
+            "type": "autre",
+            "page": 4
         }
     ],
-    "ampliations": {
-        "PR": 6,
-        "AN": 4,
-        "CS": 2,
-        "CC": 2,
-        "C. COM": 2,
-        "CES": 2,
-        "HAAC": 2,
-        "HCJ": 2,
-        "MAEP": 2,
-        "MCVT": 2,
-        "MEEM": 2
-    },
+    "ampliations": {},
     "Signataires": {
         "Entit\u00e9s Signataires ": [
             "Pr\u00e9sidence de la R\u00e9publique",
-            "Minist\u00e8re de l'Agriculture et de la P\u00eache (B\u00e9nin)",
-            "Minist\u00e8re du cadre de vie et du d\u00e9veloppement durable"
+            "Minist\u00e8re de l\u2019Industrie et du Commerce",
+            "Minist\u00e8re de la Sant\u00e9 (B\u00e9nin)",
+            "Minist\u00e8re de l'Agriculture et de la P\u00eache (B\u00e9nin)"
         ],
         "Ont sign\u00e9 ": [
             "Patrice TALON",
-            "Samou SEIDOU ADAMBI",
-            "Gaston Cossi DOSSOUHOUI"
+            "Cossi Gaston DOSSOUHOUI",
+            "Shadiya Alimatou ASSOUMAN"
         ]
     },
     "annexe": {
@@ -118,5 +161,6 @@
         "loi",
         "ministre",
         "organisation"
-    ]
+    ],
+    "remarque": "Les fichiers extraits sont dans le dossier Output."
 }
