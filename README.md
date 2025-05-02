@@ -97,13 +97,13 @@ uvicorn main:app --reload
    Le fichier `main.py` contient la définition de l'API REST qui permet de recevoir des fichiers PDF et de retourner les informations extraites sous forme de JSON."
 
 3. **Détails du modéle Yolo (FastAPI) :**
-   Le fichier `main.py` permet :
-         Chargement d’un modèle YOLO (format `.pt`)
-         Conversion de PDF en images haute résolution
-         Détection des signatures sur chaque page
-         Extraction et sauvegarde des signatures
+   Le fichier `model_yolo.py` permet :
+   Chargement d’un modèle YOLO (format `.pt`) (Ici on a exporté best.pt qui a été entrainé à partir d'un jeu de données disponible dans
+   Conversion de PDF en images haute résolution
+   Détection des signatures sur chaque page
+   Extraction et sauvegarde des signatures
 
-4. **Les différentes fonctions :**
+5. **Les différentes fonctions :**
    DE nombreuses fonctions sont utilisées dans le déroulé. Les principales fonctions sont appelées dans le main prinicpal
    
      - `extract_text_from_scanned_pdf()` : "Cette fonction applique l'OCR avec Tesseract pour extraire du texte brut à partir de PDF scannés."
@@ -144,10 +144,10 @@ uvicorn main:app --reload
 
   
 
-5. **Le pipeline de traitement :**
+6. **Le pipeline de traitement :**
    Le texte brut extrait est ensuite nettoyé, puis les informations pertinentes (titre, date, ministère, etc.) sont extraites grâce à des expressions régulières et stockées dans un format JSON. 
 
-6. **Conclusion :**
+7. **Conclusion :**
    En résumé, ce projet vise à automatiser l'extraction d'informations depuis des décrets gouvernementaux en PDF, avec une API permettant aux utilisateurs d'envoyer des documents et d'obtenir des informations structurées."
 
 
