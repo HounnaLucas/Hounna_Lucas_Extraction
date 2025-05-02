@@ -9,8 +9,7 @@ Ce projet permet d'extraire automatiquement des informations pertinentes (titre,
 - 📰 **Téléchargement de Décrets** : Téléchargement automatique des décrets gouvernementaux depuis [sgg.gouv.bj](https://sgg.gouv.bj/documentheque/decrets/)
 - 🔍 **OCR avec Tesseract** : Conversion d'images en texte pour les documents PDF scannés.
 - 🧠 **Traitement NLP** : Extraction des informations pertinentes via des expressions régulières et du traitement linguistique.
-- 🔮 Idées futures
- **Modèle YOLO** : Détecter automatiquement les signatures dans des documents PDF. 
+- 🔮 **Modèle YOLO** : Détecter automatiquement les signatures dans des documents PDF. 
 - 📦 **Structuration des Données** : Génération de fichiers JSON structurés pour chaque décret traité.
 - 🌐 **API REST avec FastAPI** : Fourniture d'une API pour une utilisation facile via des requêtes HTTP.
 
