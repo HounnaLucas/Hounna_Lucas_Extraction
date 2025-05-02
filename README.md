@@ -21,11 +21,8 @@ Ce projet permet d'extraire automatiquement des informations pertinentes (titre,
 .
 Projet Lucas/
 │
-├── mes_pdfs/                     # Dossier pour les PDF d'entrée
 │
-├── Resultats/                     # Dossier pour les résultats extraits
-│
-├── Code/                          # Code source du projet
+├── Code/                         # Code source du projet
 │   ├── __init__.py
 │   ├── mes_fonctions.py          # Fonctions d'extraction du contenu
 │   ├── mes_fonctions_suite.py    # Suite des fonctions d'extraction
@@ -33,7 +30,15 @@ Projet Lucas/
 │   ├── traitement_texte.py       # Fichier d'extraction et de nettoyage du texte
 │   ├── doxnload_all_pdf.py       # Telecharger pdf sur le site du gouvernement
 │   ├── best.pt                   # Modèle ML utilisé
-
+│
+├── mes_pdfs/                     # Dossier pour les PDF d'entrée
+│
+├── Model Entrainement/           # Entrainement modèle Yolo
+│   ├── Lucas/                    # Jeu d'images annotées
+│   ├── entrainemant.py          
+│   ├── validation.py    
+│   ├── signature.yaml              
+│  
 ├── main.py                       # Script principal d'exécution
 │
 ├── model_yolo.py                 # Modèle Machine learning d'extraction sighature
@@ -50,7 +55,7 @@ En sortie s'ajoutent ;
 .
 Projet Lucas
 │
-├── Output/                          
+├── Output/                          # Dossier pour les résultats extraits           
 │   ├── image _avec _detections
 │   ├── signatures_extraites       
 │   ├── image_links.json      
@@ -98,10 +103,10 @@ uvicorn main:app --reload
 
 3. **Détails du modéle Yolo (FastAPI) :**
    Le fichier `model_yolo.py` permet :
-   Chargement d’un modèle YOLO (format `.pt`) (Ici on a exporté best.pt qui a été entrainé à partir d'un jeu de données disponible dans
-   Conversion de PDF en images haute résolution
-   Détection des signatures sur chaque page
-   Extraction et sauvegarde des signatures
+   - TélChargement d’un modèle YOLO (format `.pt`) (Ici on a exporté best.pt qui a été entrainé à partir d'un jeu de données disponible dans Model Entrainement
+   - Conversion de PDF en images haute résolution
+   - Détection des signatures sur chaque page
+   - Extraction et sauvegarde des signatures
 
 5. **Les différentes fonctions :**
    DE nombreuses fonctions sont utilisées dans le déroulé. Les principales fonctions sont appelées dans le main prinicpal
