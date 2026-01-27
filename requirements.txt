@@ -3,7 +3,7 @@ ultralytics==8.0.168
 pdf2image==1.16.3
 opencv-python==4.9.0.80
 numpy==1.26.4
-Pillow==10.2.0
+Pillow==10.3.0
 
 # --- Traitement PDF & OCR ---
 pymupdf==1.23.22
@@ -18,4 +18,4 @@ fastapi==0.110.0
 uvicorn==0.27.1
 
 # --- Utilitaires ---
-python-multipart==0.0.9
+python-multipart==0.0.22
